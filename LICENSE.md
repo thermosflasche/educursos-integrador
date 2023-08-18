@@ -1,8 +1,8 @@
 # The Prosperity Public License 3.0.0
 
-Contributor: $name
+Contributor: Thermosflasche
 
-Source Code: $address
+Source Code: https://github.com/thermosflasche/educursos-integrador
 
 ## Purpose
 
